@@ -34,6 +34,8 @@ This is quite straightforward.
 1. Copy-paste the code from the snippet.js file in this repo to the Console window of the developer tools
 1. Push enter and wait...you should eventually see the buttons appear above the map that display the various polygon arrangements.
 
+![](DomainDemo.gif)
+
 ## https://www.realestate.com.au/
 
 This one is a bit more tricky. The developers are doing something that causes the site to crash if you type in the console if a breakpoint has stopped, so you have to get all the text ready to go and then reload the page.
