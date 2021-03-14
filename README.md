@@ -11,8 +11,9 @@ I made a tampermonkey script to be able load airport noise polygons from the [ai
 1. Use firefox.
 2. Install https://www.tampermonkey.net/
 3. Install the script in this repository. Click [here](https://github.com/andrewdodd/sydney-realestate-airport-noise/raw/main/Tampermonkey_FirefoxOnly_RealestateComAu_AirportNoise.user.js) to go directly.
-4. Go to realestate.com.au, choose a map view and wait (it takes 10-20 seconds to load all the scripts etc).
-5. Choose the shapes you want to see from the buttons that appear at the top (I'm not sure what they all mean, but **2039 N70** is pretty!
+4. Go to realestate.com.au, and allow the tampermonkey script for the whole domain (if asked).
+5. Navigate to a map view and wait (it takes 10-20 seconds to load all the scripts etc).
+6. Choose the shapes you want to see from the buttons that appear at the top (I'm not sure what they all mean, but **2039 N70** is pretty!
 
 # OLD CODE - The snippets are really only for developers only....they're very tricky to use.
 
