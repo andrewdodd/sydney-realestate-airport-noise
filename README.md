@@ -4,11 +4,13 @@ If, like me, you are considering real estate in the inner part of Sydney city yo
 
 I made a tampermonkey script to be able load airport noise polygons from the [aircraftnoise.sydneyairport.com.au](https://aircraftnoise.sydneyairport.com.au/can-i-expect-to-see-more-traffic/) website into RealEstate.com.au's map view...if you're using Firefox (sorry, not time to add support for other browsers...FF is easiest for this particular hack).
 
+![Example screenshot](ExampleScreenshot.png)
+
 ## How to install
 
 1. Use firefox.
 2. Install https://www.tampermonkey.net/
-3. Install the script in this repository
+3. Install the script in this repository. Click [here](https://github.com/andrewdodd/sydney-realestate-airport-noise/raw/main/Tampermonkey_FirefoxOnly_RealestateComAu_AirportNoise.user.js) to go directly.
 4. Go to realestate.com.au, choose a map view and wait (it takes 10-20 seconds to load all the scripts etc).
 5. Choose the shapes you want to see from the buttons that appear at the top (I'm not sure what they all mean, but **2039 N70** is pretty!
 
