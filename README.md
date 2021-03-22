@@ -17,6 +17,13 @@ I made a tampermonkey script to be able load airport noise polygons from the [ai
   - *NB: During this process you will probably see the console print things like 'NO MAP...Sorry...perhaps try refreshing?', and 'Uncaught Error: an attempt was made to add an init function after all init functions have been called'...when it works you won't see them*
 8. Choose the shapes you want to see from the buttons that appear at the top (I'm not sure what they all mean, but **2039 N70** is pretty!) Also, a new 2020 ANEI (i.e. actual recordings) just showed up, you can really see the differnce that COVID19 made.
 
+
+2018 ANEI                   | 2020 ANEI
+--------------------------- | -------------
+![2018 ANEI](2018_ANEI.png) | ![2020 ANEI](2020_ANEI.png)
+
+
+
 # OLD CODE - The snippets are really only for developers only....they're very tricky to use.
 
 These snippets let you add some polygon overlays for what the predicted noise levels will be.
